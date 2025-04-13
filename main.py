@@ -6,7 +6,7 @@ import time
 PS5_IP = "192.168.100.27"
 SendPort = 33739
 ReceivePort = 33740
-PC_IP = "192.168.100.3"
+PC_IP = "192.168.15.3"
 
 def salsa20_dec(dat):
     KEY = b'Simulator Interface Packet GT7 ver 0.0'
